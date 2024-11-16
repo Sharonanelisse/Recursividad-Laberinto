@@ -1,0 +1,14 @@
+C:\Users\sharonmarroquin\source\repos\RecursividadLaberinto\bin\Debug\net8.0\RecursividadLaberinto.exe
+C:\Users\sharonmarroquin\source\repos\RecursividadLaberinto\bin\Debug\net8.0\RecursividadLaberinto.deps.json
+C:\Users\sharonmarroquin\source\repos\RecursividadLaberinto\bin\Debug\net8.0\RecursividadLaberinto.runtimeconfig.json
+C:\Users\sharonmarroquin\source\repos\RecursividadLaberinto\bin\Debug\net8.0\RecursividadLaberinto.dll
+C:\Users\sharonmarroquin\source\repos\RecursividadLaberinto\bin\Debug\net8.0\RecursividadLaberinto.pdb
+C:\Users\sharonmarroquin\source\repos\RecursividadLaberinto\obj\Debug\net8.0\RecursividadLaberinto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharonmarroquin\source\repos\RecursividadLaberinto\obj\Debug\net8.0\RecursividadLaberinto.AssemblyInfoInputs.cache
+C:\Users\sharonmarroquin\source\repos\RecursividadLaberinto\obj\Debug\net8.0\RecursividadLaberinto.AssemblyInfo.cs
+C:\Users\sharonmarroquin\source\repos\RecursividadLaberinto\obj\Debug\net8.0\RecursividadLaberinto.csproj.CoreCompileInputs.cache
+C:\Users\sharonmarroquin\source\repos\RecursividadLaberinto\obj\Debug\net8.0\RecursividadLaberinto.dll
+C:\Users\sharonmarroquin\source\repos\RecursividadLaberinto\obj\Debug\net8.0\refint\RecursividadLaberinto.dll
+C:\Users\sharonmarroquin\source\repos\RecursividadLaberinto\obj\Debug\net8.0\RecursividadLaberinto.pdb
+C:\Users\sharonmarroquin\source\repos\RecursividadLaberinto\obj\Debug\net8.0\RecursividadLaberinto.genruntimeconfig.cache
+C:\Users\sharonmarroquin\source\repos\RecursividadLaberinto\obj\Debug\net8.0\ref\RecursividadLaberinto.dll
